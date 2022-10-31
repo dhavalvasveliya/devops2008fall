@@ -1,1 +1,1 @@
-print("Hi this is my first line")
+print("I believe this would have been a better first line.")
